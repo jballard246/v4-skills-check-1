@@ -30,7 +30,7 @@
 
 //////////////////PROBLEM 6////////////////////
 
-// Create a function called 'oddChecker' that takes in one parameter, 'num'. Your function should check to see if the parameter is even or odd. If the parameter is odd, return 'the number is odd'. If the number is even, return 'the number is even'.
+// Create a function called 'oddChecker' that takes in one parameter, 'num'. Your function should check to see if the parameter is even or odd. If the parameter is odd, return the string: 'the number is odd'. If the number is even, return the string: 'the number is even'.
 
 //Code here
 
@@ -42,14 +42,14 @@
 
 //////////////////PROBLEM 8////////////////////
 
-// Create a copy of the faveColors array called 'colorCopy' using slice.
+// Create a copy of the faveColors array called 'colorCopy' using the slice method.
 const faveColors = ['red', 'green', 'black']
 
 //Code Here
 
 //////////////////PROBLEM 9////////////////////
 
-// Add a fourth color to the end of the 'colorCopy' array using push.
+// Add a fourth color to the end of the 'colorCopy' array using the push method.
 
 //Code Here
 
@@ -62,7 +62,7 @@ const numbers = [1, 2, 3, 4, 5]
 
 //////////////////PROBLEM 11////////////////////
 
-// Create an object called 'me' that has the following keys: firstName, state, age, and greeter. The value of the firstName key should be your name as a string. The value of the property state should be your current state or providence of residence as a string. The value of age should be your age as a number. Last, greeter should be a method that returns the string 'Hello! My name is NAMEVALUE and I live in STATEVALUE' with the corresponding values.
+// Create an object called 'me' that has the following keys: firstName, state, age, and greeter. The value of the firstName key should be your name as a string. The value of the property state should be your current state or providence of residence as a string. The value of age should be your age as a number. Last, greeter should be a method that returns the string 'Hello! My name is NAMEVALUE and I live in STATEVALUE' with the corresponding values. e.g. "Hello!  My name is Joseph and I live in Utah"
 
 //Code Here
 
@@ -119,7 +119,7 @@ let secondFunctionScope = ['global', 'inner', 'outer', 'functional']
 
 //////////////////PROBLEM 16////////////////////
 
-//Write a function called isItBob that takes in two arguments: an object and a callback.  Check if the object's name property is equal to 'Bob'.  If it is, invoke the callback passing in true as an argument.  Otherwise, invoke the callback passing in false.
+//Write a function called isItBob that takes in two arguments: an object and a callback function.  Check if the object's name property is equal to 'Bob'.  If it is, invoke the callback passing in true as an argument.  Otherwise, invoke the callback passing in false.
 
 //Code Here
 

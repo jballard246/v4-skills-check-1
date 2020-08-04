@@ -1,5 +1,5 @@
 //////////////////STEP 1////////////////////
-//Create an array called 'groceries' that contains three grocery items as strings.
+//Create an array called 'groceries' that contains three grocery items of your choice as strings.
 
 // Code Here
 
@@ -9,7 +9,7 @@
 // Code Here
 
 //////////////////STEP 3////////////////////
-//Create a function called 'setGroceryListTitle' that takes in one parameter called 'x'. The function should return a string of 'XPARAM's Grocery List'.
+//Create a function called 'setGroceryListTitle' that takes in one parameter called 'x'. The function should return a string of 'XPARAM's Grocery List'.  e.g. if the string 'Joseph' is passed in for the variable x the function would return 'Joseph's Grocery List'.
 
 // Code Here
 
